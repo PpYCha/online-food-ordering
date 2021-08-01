@@ -1,0 +1,96 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "storeName": "Albertos",
+      "img": "https://zakada.app/wp-content/uploads/2021/05/albertos_logo.jpg",
+      "items": [
+        {
+          "name1": "Bangsilog",
+          "price1": "90",
+          "name2": "Beefsilog",
+          "price2": "90",
+          "name3": "Chicksilog",
+          "price3": "90",
+          "name4": "Embosilog",
+          "price4": "90",
+          "name5": "Hotsilog",
+          "price5": "90",
+          "name6": "Longsilog",
+          "price6": "90",
+          "name7": "Porksilog",
+          "price7": "90",
+          "name8": "Sisigsilog",
+          "price8": "90",
+          "name9": "Tapsilog",
+          "price9": "90",
+          "name10": "Tocisilog",
+          "price10": "90"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "storeName": "Andok's",
+      "img": "https://zakada.app/wp-content/uploads/2020/11/andoks_home_logo1.jpg",
+      "offimg": "../assets/img/andoks_home_logo1.webp",
+
+      "items": [
+        { "name": "Dokito", "price": "62" },
+        { "name": "Porkcharap", "price": "65" },
+        { "name": "Liempo", "price": "263" },
+        { "name": "Litson Bangus", "price": "193" },
+        { "name": "Barbecue", "price": "42" },
+        { "name": "Liston Manok", "price": "140-275" }
+      ]
+    },
+    {
+      "id": 3,
+      "storeName": "Bangkok Fried Rice",
+      "img": "https://zakada.app/wp-content/uploads/2021/05/bangkok_logo.jpg",
+      "offimg": "../assets/img/bangkok_logo.webp"
+    },
+    {
+      "id": 4,
+      "storeName": "BasTeakoy",
+      "img": "https://zakada.app/wp-content/uploads/2021/05/basteakoy_logo.jpg",
+      "offimg": "../assets/img/basteakoy_logo.webp"
+    },
+    {
+      "id": 5,
+      "storeName": "Beehive",
+      "img": "https://zakada.app/wp-content/uploads/2020/11/beehive_home_logo.jpg",
+      "offimg": "../assets/img/beehive_home_logo.webp"
+    },
+    {
+      "id": 6,
+      "storeName": "Better Brews Cafe",
+      "img": "https://zakada.app/wp-content/uploads/2020/11/betterbrews_home_logo_xmas.jpg",
+      "offimg": "../assets/img/betterbrews_home_logo_xmas.webp"
+    },
+    {
+      "id": 7,
+      "storeName": "Buko Island",
+      "img": "https://zakada.app/wp-content/uploads/2021/05/buko_island_logo1.jpg",
+      "offimg": "../assets/img/buko_island_logo1.webp"
+    },
+    {
+      "id": 8,
+      "storeName": "Cafe Eusebio",
+      "img": "https://zakada.app/wp-content/uploads/2020/11/cafeeusebio_home_logo.jpg",
+      "offimg": "../assets/img/cafeeusebio_home_logo.webp"
+    },
+    {
+      "id": 9,
+      "storeName": "Chooks-to-Go",
+      "img": "https://zakada.app/wp-content/uploads/2021/05/chooks_logo.jpg",
+      "offimg": "../assets/img/chooks_logo.webp"
+    },
+    {
+      "id": 10,
+      "storeName": "Coal Fire",
+      "img": "https://zakada.app/wp-content/uploads/2021/01/coal_fire_logo.jpg",
+      "offimg": "../assets/img/coal_fire_logo.webp"
+    }
+  ]
+}
